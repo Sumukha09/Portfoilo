@@ -5,7 +5,7 @@ export default {
     extend: {
       colors: {
         brand: {
-          DEFAULT: '#72EEFA',
+          DEFAULT: '#080D27',
           100: '#EA6365',
         },
         red: '#FF7474',
@@ -20,11 +20,7 @@ export default {
           300: '#F2F5F9',
           400: '#F2F4F8',
         },
-        dark: {
-          100: '#04050C',
-          200: '#131524',
-          300: '#080D27'
-        },
+        
       },
       boxShadow: {
         'drop-1': '0px 10px 30px 0px rgba(66, 71, 97, 0.1)',
