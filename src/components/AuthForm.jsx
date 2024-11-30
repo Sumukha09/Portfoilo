@@ -51,7 +51,7 @@ const AuthForm = ({ type }) => {
                 <div className='relative'>
                   <input
                     placeholder="Enter your full name"
-                    className="w-full bg-[#0A1232] rounded-2xl border border-white/10 py-4 px-5 text-lg text-white/60 placeholder:text-white/60 focus:outline-none focus:ring-0"
+                    className="w-full bg-[#080D27] rounded-2xl border border-white/10 py-4 px-5 text-lg text-white/60 placeholder:text-white/60 focus:outline-none focus:ring-0"
                     {...field}
                   />
                 </div>
@@ -71,7 +71,7 @@ const AuthForm = ({ type }) => {
                 <div className='relative'>
                   <input
                     placeholder="Enter your Email"
-                    className="w-full bg-[#0A1232] rounded-2xl border border-white/10 py-4 px-5 text-lg text-white/60 placeholder:text-white/60 focus:outline-none focus:ring-0"
+                    className="w-full bg-[#080D27] rounded-2xl border border-white/10 py-4 px-5 text-lg text-white/60 placeholder:text-white/60 focus:outline-none focus:ring-0"
                     {...field}
                   />
                 </div>
