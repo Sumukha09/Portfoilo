@@ -3,7 +3,7 @@ import { Outlet } from 'react-router-dom'
 
 const AuthLayout = () => {
   return (
-    <div className="min-h-screen flex bg-brand">
+    <div className="min-h-screen flex bg-[#020012]">
       <section className=' p-10 hidden w-1/2 lg:flex  justify-center items-center  '>
         <div className='flex max-w-[800px]  flex-col justify-center space-y-12'>
           <img 
